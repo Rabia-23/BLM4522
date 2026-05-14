@@ -8,8 +8,17 @@
 
 ## Projeler
 
+### Proje 2 — Veritabani Yedekleme ve Felaketten Kurtarma
+- **Veritabani:** Northwind
+- **Tarih:** 14.05.2026
+- **Klasor:** [proje2/](./proje2/)
+- **Konu:** Tam yedekleme, fark yedekleme ve felaketten kurtarma sureci uygulanmistir.
+- **Icerik:** Tam yedek, fark yedek, felaket senaryosu (CASCADE DROP), geri yukleme, yedekleme log sistemi
+- **Video:** https://drive.google.com/file/d/1tTe-ut1kaFR6U8i4JEYbPskB2oS5J9Ui/view?usp=sharing
+
 ### Proje 3 — Veritabani Guvenligi ve Erisim Kontrolu
 - **Veritabani:** Northwind
+- **Tarih:** 21.04.2026
 - **Klasor:** [proje3/](./proje3/)
 - **Konu:** Northwind veritabaninin gercek guvenlik aciklari tespit edilmis ve bes katmanli guvenlik sistemi kurulmustur.
 - **Icerik:** RBAC, AES sifreleme, SQL Injection korunmasi, Audit Log, Row Level Security
@@ -17,6 +26,7 @@
 
 ### Proje 5 — Veri Temizleme ve ETL Surecleri Tasarimi
 - **Veritabani:** Chinook
+- **Tarih:** 21.04.2026
 - **Klasor:** [proje5/](./proje5/)
 - **Konu:** Chinook veritabanindaki gercek veri kalite sorunlari kesfedilmis ve ETL sureci uygulanmistir.
 - **Icerik:** Extract (12 sutun tarama), Transform (temizleme kararlari), Load (temiz tablo)
@@ -26,6 +36,6 @@
 
 ## Notlar
 
-- Her iki projede de kasitli hata eklenmemistir.
-- Veritabanlarinin orijinal halindeki gercek sorunlar tespit edilip cozulmustur.
-- Tum SQL komutlari psql terminali uzerinden calistirilmistir.
+- Proje 3 ve Proje 5'te kasitli hata eklenmemistir — veritabanlarinin orijinal halindeki gercek sorunlar tespit edilip cozulmustur.
+- Proje 2'de felaket senaryosu CASCADE DROP ile simule edilmistir.
+- Proje 2 yedekleme islemleri pgAdmin arayuzu uzerinden gerceklestirilmistir.
