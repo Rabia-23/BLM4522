@@ -8,6 +8,14 @@
 
 ## Projeler
 
+### Proje 1 — Veritabani Performans Optimizasyonu ve Izleme
+- **Veritabani:** Northwind
+- **Tarih:** 18.05.2026
+- **Klasor:** [proje1/](./proje1/)
+- **Konu:** EXPLAIN ANALYZE ile sorgu analizi yapilmis, index yonetimi uygulanmis ve veritabani istatistikleri izlenmistir.
+- **Icerik:** EXPLAIN ANALYZE, Seq Scan vs Index Scan, index olusturma/silme, JOIN optimizasyonu, pg_stat izleme
+- **Video:** https://drive.google.com/file/d/1mO2AKCySgy3Yu2OqvDSRQC_74e0qKn0C/view?usp=sharing
+
 ### Proje 2 — Veritabani Yedekleme ve Felaketten Kurtarma
 - **Veritabani:** Northwind
 - **Tarih:** 14.05.2026
