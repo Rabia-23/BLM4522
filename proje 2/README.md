@@ -3,6 +3,7 @@
 **Platform:** PostgreSQL 14 + pgAdmin  
 **Veritabani:** Northwind  
 **SQL Dosyasi:** [proje2_yedekleme.sql](./proje2_yedekleme.sql)
+**Tarih:** 14.05.2026  
 
 ---
 
