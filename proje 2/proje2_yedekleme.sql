@@ -2,7 +2,7 @@
 -- BLM4522 - Proje 2: Veritabani Yedekleme ve Felaketten Kurtarma
 -- Veritabani: Northwind (PostgreSQL)
 -- Hazirlayan: Rabia Sevval Yasar
--- Tarih: 2026
+-- Tarih: 14.05.2026
 -- ============================================================
 -- NOT: Yedek alma ve geri yukleme islemleri pgAdmin arayuzu
 --      uzerinden yapilmaktadir. Bu dosya SQL adimlarini icerir.
