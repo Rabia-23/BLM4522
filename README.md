@@ -40,6 +40,14 @@
 - **Icerik:** Extract (12 sutun tarama), Transform (temizleme kararlari), Load (temiz tablo)
 - **Video:** https://drive.google.com/file/d/1-Sv-X1e-5cK531xPRfFNWNRA7wdu91QI/view?usp=sharing
 
+### Proje 6 — Veritabani Yukseltme ve Surum Yonetimi
+- **Veritabani:** Northwind
+- **Tarih:** 22.05.2026
+- **Klasor:** [proje6/](./proje6/)
+- **Konu:** Northwind v1.0'dan v2.0'a yukseltilmis, DDL trigger ile tum sema degisiklikleri otomatik izlenmis ve geri donus plani test edilmistir.
+- **Icerik:** v1.0 belgeleme, DDL event trigger, 4 yukseltme degisikligi, dogrulama, rollback
+- **Video:** https://drive.google.com/file/d/1YD5sUpVGvVje3tmoqkwIsG07l23PXTys/view?usp=sharing
+
 ---
 
 ## Notlar
